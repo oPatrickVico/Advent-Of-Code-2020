@@ -4,6 +4,8 @@ A lista de exercícios tá no site [Advent of Code 2020](https://adventofcode.co
 
 Escolhi typescript como linguagem (e Bun como runtime).
 
+**As minhas soluções foram optimizadas para brevidade, não legibilidade!**
+
 Para instalar dependências:
 
 ```bash
@@ -15,4 +17,3 @@ Para rodar o programa:
 ```bash
 bun index.ts
 ```
-
